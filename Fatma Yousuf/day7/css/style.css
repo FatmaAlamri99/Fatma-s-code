@@ -1,0 +1,58 @@
+/* h1{
+
+color: rgb(27, 89, 170);
+
+
+}
+@media screen and (max-width:600px){
+
+
+    h1{
+        color: aqua;
+        font-size: 60px;
+        font-family: 'Times New Roman', Times, serif;
+
+
+
+
+    }
+    img{
+
+
+        width: 200px;
+        height: 200px;
+        opacity: 0.5;
+
+        justify-content: center;
+        align-items: center;
+
+
+
+
+
+
+    }
+    
+} */
+
+.box{
+
+    border-radius: 30px;
+background-color: rgb(124, 108, 139);
+width: 300px;
+height: 200px;
+
+
+}
+/* .x{
+
+
+    background-color: rgb(108, 130, 139);
+    width: 400px;
+    height: 300px;
+    transition: 2s;
+
+
+} */
+
+ 
